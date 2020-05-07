@@ -3,9 +3,7 @@
 ZEBRA: Similarity Detector
 
 # How to Run
-<center>
 <img src="demo.gif" alt="demo of running software">
-</center>
 1. Download the executable and save if in the folder where the files to compare and located.
 2. Open terminal and go to the directory where the executable and files to compare are located.
 3. Run ```dir /b > filenames.txt``` in terminal. (The name "filenames" is optional. The file can be named something else.)
@@ -20,10 +18,8 @@ Alan Turing
 6. Choose an option in the menu that matches the language used within the files for better results. If none of the options match, choose the "None Listed" option.
 
 # Understanding Results
-<center>
 <img src="Results_Screenshot.png" alt="A screenshot of the results">
-</center>
-* There are three colors for results: green, yellow, and red. 
+** There are three colors for results: green, yellow, and red. 
 * Green: Low to no similarity. This coloring is used to signify any submissions that are under 10% above the average similarity. Any similarities are most likely due to assignment requirments. 
 * Yellow: Slightly higher than normal similarity. This coloring is used to signify any submissions that are between green and red standards. 
 * Red: High similarity. This coloring is used to signify any submissions that are over 30% above the average similarity. These submissions may have identical code.
