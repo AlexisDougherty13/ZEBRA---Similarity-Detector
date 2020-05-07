@@ -19,7 +19,7 @@ Alan Turing
 
 ## Understanding Results
 <img src="Results_Screenshot.png" alt="A screenshot of the results">
-*  There are three colors for results: green, yellow, and red. 
+[ ]  There are three colors for results: green, yellow, and red. 
 *  Green: Low to no similarity. This coloring is used to signify any submissions that are under 10% above the average similarity. Any similarities are most likely due to assignment requirments. 
 *  Yellow: Slightly higher than normal similarity. This coloring is used to signify any submissions that are between green and red standards. 
 *  Red: High similarity. This coloring is used to signify any submissions that are over 30% above the average similarity. These submissions may have identical code.
