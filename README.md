@@ -1,10 +1,5 @@
 ## README 
-<center>
-<p> ____  _______  ___  ___ </p>
-<p>/_  / / __/ _ )/ _ \/ _ |<p>
-<p> / /_/ _// _  / , _/ __ |<p>
-<p>/___/___/____/_/|_/_/ |_|<p>
- </center>
+
 ZEBRA: Similarity Detector
 
 # How to Run
@@ -23,7 +18,7 @@ Alan Turing
 6. Choose an option in the menu that matches the language used within the files for better results. If none of the options match, choose the "None Listed" option.
 
 # Understanding Results
-// Image of results 
+<img src="Results_Screenshot.png" alt="A screenshot of the results">
 * There are three colors for results: green, yellow, and red. 
 * Green: Low to no similarity. This coloring is used to signify any submissions that are under 10% above the average similarity. Any similarities are most likely due to assignment requirments. 
 * Yellow: Slightly higher than normal similarity. This coloring is used to signify any submissions that are between green and red standards. 
