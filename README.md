@@ -3,6 +3,9 @@
 
 ## How to Run
 <img src="demo.gif" alt="demo of running software">
+* Download the executable and save if in the folder where the files to compare and located.
+* Awesome feature 2
+* Awesome feature 3
 * Download the executable and save if in the folder where the files to compare and located
 * Open terminal and go to the directory where the executable and files to compare are located
 * Run ```dir /b > filenames.txt``` in terminal. (The name "filenames" is optional. The file can be named something else.)
