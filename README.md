@@ -1,6 +1,9 @@
 ## README 
 
-// IMAGE HERE
+ ____  _______  ___  ___ 
+/_  / / __/ _ )/ _ \/ _ |
+ / /_/ _// _  / , _/ __ |
+/___/___/____/_/|_/_/ |_|
 ZEBRA: Similarity Detector
 
 # How to Run
