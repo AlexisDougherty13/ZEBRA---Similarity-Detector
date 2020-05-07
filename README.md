@@ -19,10 +19,10 @@ Alan Turing
 6. Choose an option in the menu that matches the language used within the files for better results. If none of the options match, choose the "None Listed" option.
 
 # Understanding Results
-// Image of results
-There are three colors for results: green, yellow, and red.
-Green: Low to no similarity. This coloring is used to signify any submissions that are under 10% above the average similarity. Any similarities are most likely due to assignment requirments.
-Yellow: Slightly higher than normal similarity. This coloring is used to signify any submissions that are between green and red standards. 
+// Image of results \n
+There are three colors for results: green, yellow, and red. \n
+Green: Low to no similarity. This coloring is used to signify any submissions that are under 10% above the average similarity. Any similarities are most likely due to assignment requirments. \n
+Yellow: Slightly higher than normal similarity. This coloring is used to signify any submissions that are between green and red standards. \n
 Red: High similarity. This coloring is used to signify any submissions that are over 30% above the average similarity. These submissions may have identical code.
 
 # Additional Notes
