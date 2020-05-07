@@ -1,7 +1,21 @@
 # README
 > ZEBRA: Similarity Detector
 
-## Table of contents
+## How to Run
+<img src="demo.gif" alt="demo of running software">
+* Download the executable and save if in the folder where the files to compare and located.
+* Open terminal and go to the directory where the executable and files to compare are located.
+* Run ```dir /b > filenames.txt``` in terminal. (The name "filenames" is optional. The file can be named something else.)
+* Optional: For testing student submissions, if you want the program output to have the student's names listed as FIRST LAST, instead of the Canvas naming system LASTFIRST, then copy the names of all the students and paste them into a file with each line being a single name.
+Ex:
+Charles Babbage
+James Gosling
+Grace Hopper
+Ada Lovelace
+Alan Turing
+* Run ```ZEBRA filenames.txt```. If using a list of student names, run ```ZEBRA filenames.txt studentnames.txt```. (Use the names of the textfiles within the folder, not the names given here, unless the textfiles are named filenames and studentnames, respectivly.)
+* Choose an option in the menu that matches the language used within the files for better results. If none of the options match, choose the "None Listed" option.
+
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
