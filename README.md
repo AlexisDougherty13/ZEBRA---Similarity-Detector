@@ -2,8 +2,8 @@
 > ZEBRA: Similarity Detector
 
 ## How to Run
-<img src="demo.gif" alt="demo of running software">
-* Download the executable and save if in the folder where the files to compare and located.
+* Awesome feature 2
+* Awesome feature 3
 * Awesome feature 2
 * Awesome feature 3
 * Download the executable and save if in the folder where the files to compare and located
