@@ -3,8 +3,8 @@
 
 ## How to Run
 <img src="demo.gif" alt="demo of running software">
-* Download the executable and save if in the folder where the files to compare and located.
-* Open terminal and go to the directory where the executable and files to compare are located.
+* Download the executable and save if in the folder where the files to compare and located
+* Open terminal and go to the directory where the executable and files to compare are located
 * Run ```dir /b > filenames.txt``` in terminal. (The name "filenames" is optional. The file can be named something else.)
 * Optional: For testing student submissions, if you want the program output to have the student's names listed as FIRST LAST, instead of the Canvas naming system LASTFIRST, then copy the names of all the students and paste them into a file with each line being a single name.
 Ex:
